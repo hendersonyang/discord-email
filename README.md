@@ -16,3 +16,7 @@ Set the channel that will receive emails in the .env file <br>
 Use slash command sendemail <br>
 <img src="https://cdn.discordapp.com/attachments/791856448975405066/947597973318152212/brave_XxuNm4p3oP.png" width="512px"></img>
 <img src="https://cdn.discordapp.com/attachments/791856448975405066/947597940875202602/brave_phOjOwvYZh.png" width="512px"></img>
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/formsend/nano.svg)](https://starchart.cc/formsend/nano)
