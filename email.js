@@ -4,10 +4,10 @@ let lastMsg = ""
 
 module.exports.getHeader = function (callback) {
     let imap = new Imap({
-        user: process.env.smtp_username,
-        password: process.env.smtp_password,
-        host: process.env.smtp_server,
-        port: process.env.smtp_port,
+        user: process.env.imap_username,
+        password: process.env.imap_password,
+        host: process.env.imap_server,
+        port: process.env.imap_port,
         tls: true
     });
     function openInbox(cb) {
@@ -64,10 +64,10 @@ module.exports.getHeader = function (callback) {
 
 module.exports.getEmail = function (callback) {
     let imap = new Imap({
-        user: process.env.smtp_username,
-        password: process.env.smtp_password,
-        host: process.env.smtp_server,
-        port: process.env.smtp_port,
+        user: process.env.imap_username,
+        password: process.env.imap_password,
+        host: process.env.imap_server,
+        port: process.env.imap_port,
         tls: true
     });
     function openInbox(cb) {
