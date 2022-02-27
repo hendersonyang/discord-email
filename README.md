@@ -19,4 +19,4 @@ Use slash command sendemail <br>
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/formsend/nano.svg)](https://starchart.cc/formsend/nano)
+[![Stargazers over time](https://starchart.cc/hendersonyang/discord-email.svg)](https://starchart.cc/hendersonyang/discord-email)
